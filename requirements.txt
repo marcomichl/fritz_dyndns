@@ -1,10 +1,6 @@
-Package            Version
------------------- ---------
-certifi            2022.12.7
-charset-normalizer 3.0.1
-fritzconnection    1.11.0
-idna               3.4
-pip                22.0.2
-requests           2.28.2
-setuptools         59.6.0
-urllib3            1.26.14
+certifi==2022.12.7
+charset-normalizer==3.0.1
+fritzconnection==1.11.0
+idna==3.4
+requests==2.28.2
+urllib3==1.26.14
